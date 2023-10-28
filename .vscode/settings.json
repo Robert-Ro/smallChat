@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "in.h": "c",
+        "stdint-uintn.h": "c",
+        "tcp.h": "c",
+        "unistd.h": "c",
+        "features.h": "c",
+        "select.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "libc-header-start.h": "c"
+    }
+}
