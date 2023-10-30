@@ -8,6 +8,7 @@
         "select.h": "c",
         "string.h": "c",
         "stdio.h": "c",
-        "libc-header-start.h": "c"
+        "libc-header-start.h": "c",
+        "types.h": "c"
     }
 }
